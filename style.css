@@ -51,6 +51,7 @@ header {
 #projects {
     display: grid;
     grid-template-columns: var(--equal-columns);
+    gap: 26px;
 }
 
 .project {
