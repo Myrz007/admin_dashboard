@@ -11,6 +11,16 @@ body {
     grid-template-rows: 1fr 5fr;
 }
 
+h4 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+p {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
 #sidebar {
     grid-column: 1 / 2;
     background-color: var(--newport-blue);
