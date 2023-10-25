@@ -52,3 +52,10 @@ header {
     display: grid;
     grid-template-columns: var(--equal-columns);
 }
+
+.project {
+    padding: 20px;
+    background-color: white;
+    border-left: 6px solid #F0B429;
+    border-radius: 6px;
+}
