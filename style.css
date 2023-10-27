@@ -42,6 +42,11 @@ header {
     grid-template-rows: var(--equal-columns);
 }
 
+#actions {
+    display: flex;
+    gap: 20px;
+}
+
 #main-container {
     padding: 10px 30px 50px 20px;
     background-color: #E2E8F0;
