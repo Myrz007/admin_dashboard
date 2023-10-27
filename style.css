@@ -71,3 +71,7 @@ header {
     background-color: white;
     border-radius: 6px;
 }
+
+#trending-container {
+    margin-left: 20px;
+}
