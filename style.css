@@ -47,6 +47,15 @@ header {
     gap: 20px;
 }
 
+#actions > li > button {
+    height: 30px;
+    width: 80px;
+    background-color: var(--newport-blue);
+    border-style: none;
+    border-radius: 20px;
+    color: white;
+}
+
 #main-container {
     padding: 10px 30px 50px 20px;
     background-color: #E2E8F0;
