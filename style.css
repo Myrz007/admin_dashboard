@@ -61,3 +61,7 @@ header {
     border-left: 6px solid #F0B429;
     border-radius: 6px;
 }
+
+#announcements-container {
+    margin: 0 0 36px 20px;
+}
