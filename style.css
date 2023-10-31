@@ -79,7 +79,7 @@ input {
 
 #main-container {
     padding: 10px 30px 50px 20px;
-    background-color: #E2E8F0;
+    background-color: var(--solitude);
     display: grid;
     grid-template-columns: 2fr 1fr;
 }
