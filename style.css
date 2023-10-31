@@ -84,6 +84,13 @@ input {
     border-radius: 50%;
 }
 
+#greetings > img {
+    background-color: var(--solitude);
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+
 #actions {
     display: flex;
     gap: 20px;
