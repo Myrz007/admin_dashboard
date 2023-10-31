@@ -76,6 +76,14 @@ input {
     padding-left: 20px;
 }
 
+#profile > img,
+.user > img {
+    background-color: var(--solitude);
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
 #actions {
     display: flex;
     gap: 20px;
