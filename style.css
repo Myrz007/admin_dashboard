@@ -144,6 +144,10 @@ input {
     border-radius: 6px;
 }
 
+.announcement {
+    padding: 10px 0 10px 0;
+}
+
 #trending-container {
     margin-left: 20px;
 }
