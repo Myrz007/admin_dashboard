@@ -129,3 +129,9 @@ input {
     background-color: white;
     border-radius: 6px;
 }
+
+.user {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
