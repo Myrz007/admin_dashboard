@@ -1,5 +1,6 @@
 :root {
     --newport-blue: #1992D4;
+    --solitude: #E2E8F0;
     --equal-columns: repeat(2, 1fr);
 }
 
@@ -45,6 +46,13 @@ header {
     display: grid;
     grid-template-columns: var(--equal-columns);
     grid-template-rows: var(--equal-columns);
+}
+
+#search-engine {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-left: 20px;
 }
 
 #actions {
