@@ -42,6 +42,11 @@ button {
     background-color: var(--newport-blue);
 }
 
+#title > img {
+    height: 50px;
+    width: 50px;;
+}
+
 header {
     display: grid;
     grid-template-columns: var(--equal-columns);
