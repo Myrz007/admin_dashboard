@@ -4,6 +4,11 @@
     --equal-columns: repeat(2, 1fr);
 }
 
+@font-face {
+    font-family: "Rubik";
+    src: url("../fonts/Rubik-VariableFont_wght.ttf") format("ttf");
+}
+
 body {
     margin: 0;
     padding: 0;
