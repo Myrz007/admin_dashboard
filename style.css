@@ -73,6 +73,10 @@ button {
     padding-left: 14px;
 }
 
+#settings-bar {
+    padding-left: 14px;
+}
+
 header {
     display: grid;
     grid-template-columns: var(--equal-columns);
