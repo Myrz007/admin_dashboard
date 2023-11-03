@@ -68,6 +68,11 @@ button {
     width: 50px;
 }
 
+#profile-bar {
+    margin: 40px 0 50px 0;
+    padding-left: 14px;
+}
+
 header {
     display: grid;
     grid-template-columns: var(--equal-columns);
