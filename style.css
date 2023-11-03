@@ -77,6 +77,14 @@ button {
     padding-left: 14px;
 }
 
+#profile-bar > li,
+#settings-bar > li {
+    display: flex;
+    align-items: center;
+    gap: 26px;
+    margin-bottom: 20px;
+}
+
 header {
     display: grid;
     grid-template-columns: var(--equal-columns);
