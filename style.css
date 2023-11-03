@@ -51,6 +51,13 @@ button {
     padding-left: 16px;
 }
 
+#title {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 26px;
+}
+
 #title > img {
     height: 50px;
     width: 50px;;
