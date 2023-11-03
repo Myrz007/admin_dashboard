@@ -39,6 +39,7 @@ button > img {
 button {
     border: none;
     background-color: white;
+    font: 700 14px "Rubik", Arial, sans-serif;
 }
 
 #sidebar {
