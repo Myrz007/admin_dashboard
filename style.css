@@ -2,6 +2,7 @@
     --newport-blue: #1992D4;
     --solitude: #E2E8F0;
     --equal-columns: repeat(2, 1fr);
+    --shadow: 2px 4px 4px lightgray;
 }
 
 @font-face {
@@ -169,6 +170,7 @@ input {
     background-color: white;
     border-left: 6px solid #F0B429;
     border-radius: 6px;
+    box-shadow: var(--shadow);
 }
 
 .project > ul {
@@ -185,6 +187,7 @@ input {
     padding: 20px 30px 20px 30px;
     background-color: white;
     border-radius: 6px;
+    box-shadow: var(--shadow);
 }
 
 .announcement {
@@ -203,6 +206,7 @@ input {
     padding: 20px;
     background-color: white;
     border-radius: 6px;
+    box-shadow: var(--shadow);
 }
 
 .user {
