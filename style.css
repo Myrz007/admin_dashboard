@@ -127,6 +127,14 @@ input {
     padding: 0 0 10px 20px;
 }
 
+#name > p {
+    font-weight: 600;
+}
+
+#name > h3 {
+    margin-top: 10px;
+}
+
 #profile > img,
 .user > img {
     background-color: var(--solitude);
