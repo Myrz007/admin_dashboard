@@ -1,6 +1,7 @@
 :root {
     --newport-blue: #1992D4;
     --solitude: #E2E8F0;
+    --deep-gray: #636363;
     --equal-columns: repeat(2, 1fr);
     --shadow: 2px 4px 4px lightgray;
 }
@@ -26,7 +27,7 @@ h5 {
 
 h4 + p,
 p + p {
-    color: #636363;
+    color: var(--deep-gray);
 }
 
 p {
